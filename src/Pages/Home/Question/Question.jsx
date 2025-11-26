@@ -33,7 +33,7 @@ const Question = () => {
                     <div className="collapse-title font-semibold">How will I be notified when the product is back in stock?</div>
                     <div className="collapse-content text-sm">Go to "My Account" settings and select "Edit Profile" to make changes.</div>
                 </div>
-                <button className='btn bg-primary mt-5 mx-auto'>See More FQA's</button>
+                <button className='btn bg-primary text-secondary hover:bg-secondary hover:text-primary mt-5 mx-auto'>See More FAQ's</button>
             </div>
         </div>
     );
